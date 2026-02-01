@@ -34,7 +34,7 @@ The Power BI report contains **3 pages**, each designed to answer specific busin
 ---
 
 ### Page 2: House Type & Price Analysis
-![House Type Analysis](Images/Page2_House_Type_Analysis.png)
+![House Type Analysis](https://github.com/Tejas2906/House-Market-Analysis-Dashboard/blob/56003c9f51a612b969b30becf43fe22a321cc8ad/house%20type%20analysis%20.jpg)
 
 **Key Insights:**
 - **Farm and Apartment** properties have higher average prices
