@@ -23,7 +23,7 @@ The Power BI report contains **3 pages**, each designed to answer specific busin
 ---
 
 ### Page 1: House Market Overview
-![House Market Overview](Images/Page1_House_Market_Overview.png)
+![House Market Overview](https://github.com/Tejas2906/House-Market-Analysis-Dashboard/blob/3db0d74d67fd51bb10d0411dc09f0e67c5a65a64/House%20market%20Overview.jpg)
 
 **Key Insights:**
 - Median sales price varies significantly across regions
