@@ -66,7 +66,7 @@ The Power BI report contains **3 pages**, each designed to answer specific busin
 
 ## Dataset Information
 
-- Source: Housing market dataset (CSV format)
+- Source: Housing market dataset (https://github.com/Tejas2906/House-Market-Analysis-Dashboard/blob/8adc9b069b78423dce299d359196f07eb043e255/Housing%20Data%20(1).csv)
 - Includes:
   - Property details and house types
   - Region and city information
