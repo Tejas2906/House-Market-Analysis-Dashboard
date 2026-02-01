@@ -45,7 +45,7 @@ The Power BI report contains **3 pages**, each designed to answer specific busin
 ---
 
 ### Page 3: Sales Performance Analysis
-![Sales Performance](Images/Page3_Sales_Performance.png)
+![Sales Performance](https://github.com/Tejas2906/House-Market-Analysis-Dashboard/blob/77874de7a8c9ff68995eb7512592e81b50cfd2de/sales%20performance%20.jpg)
 
 **Key Insights:**
 - Zealand and Jutland contribute the highest sales volume
